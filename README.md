@@ -1,4 +1,4 @@
-# Learning about Flows and Assignments in Graphs with Python
+# Flows and Assignments in Graphs with Python
 In writing an article about these two topics I used many code examples, this repository stores my full source code for that article.
 
 ## Notes
